@@ -1,0 +1,8 @@
+{
+	"audio_path":"drive/MyDrive/test_1.wav",
+	"result_path":"drive/MyDrive/test_1_res.wav",
+	"function":"achange",
+	"speed":"3.0",
+	"volume":"0.5",
+	"model_lang":"ru"
+}
