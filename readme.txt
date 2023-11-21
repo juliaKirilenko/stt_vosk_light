@@ -1,5 +1,5 @@
 stt_app:
-[a link]https://drive.google.com/file/d/1-BApLzGz93IIBt-QD8Y54bZGt3Eqf8kv/view?usp=drive_link
+[a link](https://drive.google.com/file/d/1-BApLzGz93IIBt-QD8Y54bZGt3Eqf8kv/view?usp=drive_link)
 
 Перед запуском stt_app необходимо определить параметры в файле конфигурации и положить его рядом с stt_app.
 
